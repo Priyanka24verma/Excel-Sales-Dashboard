@@ -60,7 +60,7 @@ The Excel dashboard includes:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
